@@ -1,0 +1,9 @@
+export const black = '#000000';
+export const white = '#FFFFFF';
+export const grey = '#636e72';
+export const blue = '#0984e3';
+export const red = '#e74c3c';
+export const green = '#1abc9c';
+export const greenyoung = '#7BCFFF';
+export const greyyoung = '#C4C4C4';
+export const youngblue = '#6C70EB';
